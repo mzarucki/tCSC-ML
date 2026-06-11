@@ -1,0 +1,3 @@
+# tCSC-ML
+
+ML exercises
